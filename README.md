@@ -22,6 +22,7 @@ Recently, I am implementing Smart Contract by using Solidity and Truffle </br>
 <img src="https://img.shields.io/badge/BlockChain-121D33?style=flat-square&logo=BlockChain.com&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/>
 </p>
 
