@@ -22,16 +22,13 @@ Recently, I am implementing Smart Contract by using Solidity and Truffle </br>
 <img src="https://img.shields.io/badge/BlockChain-121D33?style=flat-square&logo=BlockChain.com&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Hyperledger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
