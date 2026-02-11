@@ -10,6 +10,7 @@
 <h3 align="center"> Who Am I?</h3>
 
 <p align="center">
-<a href="https://joowonkim.pages.dev">My Portfolio</a>
+  <a href="https://joowonkim.pages.dev">
+    <img src="https://joowonkim.pages.dev/og-image.png" alt="Joowon Kim Portfolio" />
+  </a>
 </p>
-
