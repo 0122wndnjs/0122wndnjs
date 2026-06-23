@@ -98,8 +98,4 @@ I’m open to collaboration on full-stack web products, Web3 services, MVP devel
 🌐 **Portfolio:** [joowonkim.pages.dev](https://joowonkim.pages.dev)
 💼 **LinkedIn:** [Joowon Kim](https://www.linkedin.com/in/joowon-kim-0122/)
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" />
-
 </div>
