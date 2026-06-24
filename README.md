@@ -95,7 +95,7 @@ Scalable Development Workflows
 I’m open to collaboration on full-stack web products, Web3 services, MVP development, and business automation projects.
 
 📩 **Email:** [0122wndnjs@gmail.com](mailto:0122wndnjs@gmail.com)
-🌐 **Portfolio:** [joowonkim.pages.dev](https://joowonkim.pages.dev)
+🌐 **Portfolio:** [joowonkim.me](https://joowonkim.me)
 💼 **LinkedIn:** [Joowon Kim](https://www.linkedin.com/in/joowon-kim-0122/)
 
 </div>
